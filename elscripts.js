@@ -11,11 +11,11 @@ var gameDiv = document.createElement('div');
 document.body.appendChild(gameDiv);
 
 var cellColors = {
-	70: 'yellow',
-	140: 'orange',
-	210: 'green',
-	280: 'cyan',
-	350: 'red'
+	70: 'gold',
+	140: 'DarkKhaki',
+	210: 'SpringGreen',
+	280: 'Navy',
+	350: 'crimson'
 }
 
 function clearStage() {
